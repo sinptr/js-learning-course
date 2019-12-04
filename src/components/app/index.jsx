@@ -8,6 +8,7 @@ import { Switch, Route, HashRouter as Router } from 'react-router-dom';
 import { Main } from '../main';
 import { Lesson } from '../lesson';
 import { Home } from '../home';
+import { About } from '../about';
 
 const theme = createMuiTheme();
 
@@ -20,6 +21,9 @@ export const App = () => {
           <Switch>
             <Route path="/lessons/:lessonId">
               <Lesson />
+            </Route>
+            <Route path="/about">
+              <About />
             </Route>
             <Route path="/">
               <Home />
