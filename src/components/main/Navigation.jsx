@@ -3,8 +3,8 @@ import List from '@material-ui/core/List';
 import Divider from '@material-ui/core/Divider';
 import ListItemText from '@material-ui/core/ListItemText';
 import ListItem from '@material-ui/core/ListItem';
-import { NestedList } from '../ui/NestedList';
 import { Link } from 'react-router-dom';
+import { NestedList } from '../ui/NestedList';
 
 export function Navigation() {
   return (
@@ -18,6 +18,10 @@ export function Navigation() {
             {
               title: 'Строгий режим — "use strict"',
               link: '/lessons/use-strict',
+            },
+            {
+              title: 'Переменные',
+              link: '/lessons/variables',
             },
           ]}
         />
