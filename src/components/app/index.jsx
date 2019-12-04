@@ -3,11 +3,8 @@ import {
   CssBaseline,
   ThemeProvider,
   createMuiTheme,
-  Typography,
-  Link,
 } from '@material-ui/core';
-import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
-import Grid from '@material-ui/core/Grid';
+import { Switch, Route, HashRouter as Router } from 'react-router-dom';
 import { Main } from '../main';
 import { Lesson } from '../lesson';
 import { Home } from '../home';
