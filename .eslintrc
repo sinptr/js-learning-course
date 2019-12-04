@@ -1,0 +1,14 @@
+{
+  "extends": ["react-app", "airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "arrow-parens": [2, "as-needed"],
+    "camelcase": 1,
+    "strict": 2,
+    "no-underscore-dangle": "off",
+    "prettier/prettier": ["error"],
+    "react-hooks/rules-of-hooks": "error",
+    "import/prefer-default-export": "off",
+    "consistent-return": "warn"
+  }
+}
