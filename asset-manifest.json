@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/js-learning-course/static/js/main.18657f36.chunk.js",
+    "main.js.map": "/js-learning-course/static/js/main.18657f36.chunk.js.map",
+    "runtime-main.js": "/js-learning-course/static/js/runtime-main.06c2f3e2.js",
+    "runtime-main.js.map": "/js-learning-course/static/js/runtime-main.06c2f3e2.js.map",
+    "static/js/2.f6045a3f.chunk.js": "/js-learning-course/static/js/2.f6045a3f.chunk.js",
+    "static/js/2.f6045a3f.chunk.js.map": "/js-learning-course/static/js/2.f6045a3f.chunk.js.map",
+    "index.html": "/js-learning-course/index.html",
+    "precache-manifest.8b5251bbdaf13118b93724841ab94ec3.js": "/js-learning-course/precache-manifest.8b5251bbdaf13118b93724841ab94ec3.js",
+    "service-worker.js": "/js-learning-course/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06c2f3e2.js",
+    "static/js/2.f6045a3f.chunk.js",
+    "static/js/main.18657f36.chunk.js"
+  ]
+}
