@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/js-learning-course/static/js/main.4e36cb41.chunk.js",
-    "main.js.map": "/js-learning-course/static/js/main.4e36cb41.chunk.js.map",
+    "main.js": "/js-learning-course/static/js/main.fe0547bc.chunk.js",
+    "main.js.map": "/js-learning-course/static/js/main.fe0547bc.chunk.js.map",
     "runtime-main.js": "/js-learning-course/static/js/runtime-main.06c2f3e2.js",
     "runtime-main.js.map": "/js-learning-course/static/js/runtime-main.06c2f3e2.js.map",
-    "static/js/2.bbb798c2.chunk.js": "/js-learning-course/static/js/2.bbb798c2.chunk.js",
-    "static/js/2.bbb798c2.chunk.js.map": "/js-learning-course/static/js/2.bbb798c2.chunk.js.map",
+    "static/js/2.79b267aa.chunk.js": "/js-learning-course/static/js/2.79b267aa.chunk.js",
+    "static/js/2.79b267aa.chunk.js.map": "/js-learning-course/static/js/2.79b267aa.chunk.js.map",
     "index.html": "/js-learning-course/index.html",
-    "precache-manifest.0b9f2e20d7188f0f635b271cff80135d.js": "/js-learning-course/precache-manifest.0b9f2e20d7188f0f635b271cff80135d.js",
+    "precache-manifest.f0df5077616f9f5a20dcbfe2d00808b4.js": "/js-learning-course/precache-manifest.f0df5077616f9f5a20dcbfe2d00808b4.js",
     "service-worker.js": "/js-learning-course/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.06c2f3e2.js",
-    "static/js/2.bbb798c2.chunk.js",
-    "static/js/main.4e36cb41.chunk.js"
+    "static/js/2.79b267aa.chunk.js",
+    "static/js/main.fe0547bc.chunk.js"
   ]
 }
